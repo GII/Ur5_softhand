@@ -30,4 +30,4 @@ formats:
 # Declare Python requirements needed to build your documentation
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: Docs/requirements.txt
