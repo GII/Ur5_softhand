@@ -10,6 +10,7 @@ project = 'Ur5-Softhand'
 copyright = '2025, Fabian Alvarez'
 author = 'Fabian Alvarez'
 release = '1.0'
+version = '0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
