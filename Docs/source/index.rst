@@ -14,3 +14,4 @@ This documentation provides an overview of the "UR5-Softhand" project, covering 
    usage
    contributing
    license
+   api/modules
