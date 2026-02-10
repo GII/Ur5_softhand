@@ -24,7 +24,7 @@ It is implemented using **ROS 2** for seamless integration with modern robotic e
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/SantaCRC/ur_softhand.git
+git clone https://github.com/GII/Ur5_softhand.git
 cd ur5e-softhand-integration
 rosdep install --from-paths src --ignore-src -r -y
 colcon build
